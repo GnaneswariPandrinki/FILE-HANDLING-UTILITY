@@ -107,4 +107,10 @@ Learning base for advanced Java I/O
 
 Conclusion
 
-This File Handling Utility project provides a strong introduction to Java file operations. By using buffered streams, modular methods, and proper exception handling, the program follows good coding practices. It is an ideal project for beginners to understand how Java interacts with files and serves as a foundation for building more advanced file-based applications.
+This File Handling Utility project provides a strong introduction to Java file operations. By using buffered streams, modular methods, and proper exception handling, the program follows good coding practices. It 
+
+is an ideal project for beginners to understand how Java interacts with files and serves as a foundation for building more advanced file-based applications.
+
+OUTPUT:
+
+<img width="1196" height="274" alt="Image" src="https://github.com/user-attachments/assets/ede1fe3a-9881-450e-a74e-425c1f8c768d" />
